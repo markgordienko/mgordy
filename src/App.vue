@@ -10,6 +10,7 @@
       <ul class="">
         <li><router-link to="/">Home</router-link></li>
         <li><router-link to="/guess-my-number">About</router-link></li>
+        <li><router-link to="/passion">Passion</router-link></li>
       </ul>
     </div>
   </div>
